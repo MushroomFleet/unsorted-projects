@@ -14,3 +14,9 @@ collection of unfinished and unsorted projects
 
 230505-Johnsons-Shap-e.ipynb
 (OpenAI ~ Image to 3D Shap-e colab)
+
+230727- SDXL 1.0 Lora Trainer Forked from Linaqruf
+(for use with completed datasets uploaded to Gdrive)
+<a target="_blank" href="https://colab.research.google.com/github/MushroomFleet/unsorted-projects/blob/main/Johnsons_fork_230727_SDXL_1_0_kohya_LoRA_trainer_XL.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
